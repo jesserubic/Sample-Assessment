@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6KOv2ITOXAi_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Sample_Articulate_Assessment_ORG">
+    <organization identifier="Sample_Articulate_Assessment_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Sample Articulate Assessment</title>
+      <item identifier="TPUSA_CDS_Global_UK_Hearst_Membership_Journey_Post_Quiz_SCO" identifierref="__6KOv2ITOXAi_course_id_RES" isvisible="true">
+        <title>Sample Articulate Assessment</title>
+        <imsss:sequencing>
+          <imsss:deliveryControls tracked="true" completionSetByContent="true" objectiveSetByContent="true" />
+        </imsss:sequencing>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6KOv2ITOXAi_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6LBrUlWCr1r_80_P_263_0_1046_2048.jpg" />
+      <file href="mobile/66d8m0cUzZo.png" />
+      <file href="mobile/65U03XMG6zO_X_P_0_0_1852_1367.png" />
+      <file href="mobile/5pOtT0HyGod.png" />
+      <file href="mobile/62QcRERVPPG_C9.png" />
+      <file href="story_content/WebObjects/69RCIVn70el/happy.mp3" />
+      <file href="story_content/WebObjects/69RCIVn70el/index.html" />
+      <file href="story_content/WebObjects/69RCIVn70el/pokemon.mp3" />
+      <file href="story_content/WebObjects/69RCIVn70el/train.mp3" />
+      <file href="story_content/WebObjects/69RCIVn70el/walking.mp3" />
+      <file href="mobile/69RCIVn70el6SScvBFlHfQ{Width=700, Height=520}Dark.png" />
+      <file href="mobile/6Y4sYRJXPWN.png" />
+      <file href="mobile/6PGpskzPnE6.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5owGyuUkBfm.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aF0G390ido.js" />
+      <file href="html5/data/js/5hzEcnagXFX.js" />
+      <file href="html5/data/js/5kNzOoH9Fon.js" />
+      <file href="html5/data/js/69s2d8ok17C.js" />
+      <file href="html5/data/js/6GcWHOCgp4n.js" />
+      <file href="html5/data/js/6mIVfVQPhT0.js" />
+      <file href="html5/data/js/6QgpU1dYU2K.js" />
+      <file href="html5/data/js/6QVwCFSpGUn.js" />
+      <file href="html5/data/js/6Sa0CUKfM9r.js" />
+      <file href="html5/data/js/6Ws7FwLncfF.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
